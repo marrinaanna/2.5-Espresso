@@ -1,0 +1,53 @@
+{
+    "name": "textDisplayTest",
+    "start": 1678911381405,
+    "stop": 1678911383339,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "96436029-1ae3-45ad-9b8f-4ec54fc2dfe8",
+    "historyId": "bfde6250671a4534e0dba94c79ff8f51",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.MainActivityTest.textDisplayTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.MainActivityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "textDisplayTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.MainActivityTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(55)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

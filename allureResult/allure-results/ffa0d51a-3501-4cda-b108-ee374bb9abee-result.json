@@ -1,0 +1,53 @@
+{
+    "name": "visibilityCheckTest",
+    "start": 1678911402845,
+    "stop": 1678911404096,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "ffa0d51a-3501-4cda-b108-ee374bb9abee",
+    "historyId": "abcaba6f819c2d9c1ce30abd489e8be1",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.MainActivityTest.visibilityCheckTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.MainActivityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "visibilityCheckTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.MainActivityTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(56)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
